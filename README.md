@@ -30,9 +30,8 @@ Fica aqui meus sinceros agradecimento ao Javier pela inspiração.
 
 # Por quê?
 
-Desenvolvi esse projeto por curiosidade e diversão :)
+Desenvolvi esse projeto para estudo .
 
-Para mais projetos como esse visite o [canal](https://www.youtube.com/@andre_ricardo)...
 
 ---
 
